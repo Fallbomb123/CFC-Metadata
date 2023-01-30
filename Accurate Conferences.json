@@ -1248,5 +1248,13 @@
     "Chick-Fil-A Bowl",
     "Quick Lane Bowl",
     "TEST BOWL"
+    # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
+# COACH,MIKU,Justin Saban,90,90,90,90,90,Pro Style,Conservative,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# OC,MIKU,Mike Locksley,95,95,QB,Deep Pass,,,,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# DC,ALA,Kirby Smart,95,95,LB,Inside Run,,,,,,,
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
+# PLAYER,ALA,QB,Tua Tagovailoa,So,72/,200,5,,,,,,
   ]
 }
