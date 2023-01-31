@@ -19,7 +19,7 @@
   "conferences": [
     {
       "confFullName": "Southeastern",
-      "confPrestige": "95",
+      "confPrestige": "80",
       "confName": "SEC",
       "confTeams": [
         {
@@ -50,7 +50,7 @@
             "rivalryNames": {
                 "ALA": "Iron Bowl"
             },
-            "prestige": "90",
+            "prestige": "80",
             "hexColor": "#0C2340"
         },
         {
@@ -72,7 +72,7 @@
             "rivalryNames": {
                 "FLA": "World's Largest Cocktail Party"
             },
-            "prestige": "95",
+            "prestige": "85",
             "hexColor": "#BA0C2F"
         },
         {
@@ -83,7 +83,7 @@
             "rivalryNames": {
                 "TAMU": "Sabine Showdown"
             },
-            "prestige": "90",
+            "prestige": "80",
             "hexColor": "#461D7C"
         },
         {
@@ -103,7 +103,7 @@
             "abbreviation": "UTK",
             "rival": ["ARK"],
             "rivalryNames": {},
-            "prestige": "90",
+            "prestige": "80",
             "hexColor": "#FF8200"
         },
         {
@@ -132,7 +132,7 @@
     },
     {
         "confFullName": "Big 10",
-        "confPrestige": "95",
+        "confPrestige": "75",
         "confName": "B10",
         "confTeams": [
             {
@@ -163,7 +163,7 @@
                   "rivalryNames": {
                       "OSU": "The Game"
                   },
-                  "prestige": "95",
+                  "prestige": "85",
                   "hexColor": "#00274C"
               },
               {
@@ -203,7 +203,7 @@
                   "rivalryNames": {
                       "UM": "The Game"
                   },
-                  "prestige": "95",
+                  "prestige": "65",
                   "hexColor": "#BB0000"
               },
               {
@@ -250,7 +250,7 @@
                 "abbreviation": "CLEM",
                 "rival": ["GTU"],
                 "rivalryNames": {},
-                "prestige": "95",
+                "prestige": "75",
                 "hexColor": "#F56600"
               },
               {
@@ -410,7 +410,7 @@
                   "abbreviation": "TCU",
                   "rival": ["BAY"],
                   "rivalryNames": {},
-                  "prestige": "90",
+                  "prestige": "70",
                   "hexColor": "#4D1979"
               },
               {
@@ -462,7 +462,7 @@
                 "abbreviation": "ORE",
                 "rival": ["ORSU"],
                 "rivalryNames": {},
-                "prestige": "90",
+                "prestige": "80",
                 "hexColor": "#154733"
               },
               {
@@ -489,7 +489,7 @@
                 "abbreviation": "UCLA",
                 "rival": ["USC"],
                 "rivalryNames": {},
-                "prestige": "90",
+                "prestige": "80",
                 "hexColor": "#2D68C4"
               },
               {
